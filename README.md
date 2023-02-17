@@ -10,3 +10,8 @@ Based on "FormsFlow.ai on Github" at https://github.com/AOT-Technologies/forms-f
 Based on "FormsFlow.ai Use Case - Business Licence (pdf)" at [BusinessLicence-UseCase.pdf](https://github.com/vanHeemstraSystems/business-process-management/files/10767280/BusinessLicence-UseCase.pdf)
 
 Based on "FormsFlow.ai Use Case - Business Licence on YouTube" at https://www.youtube.com/watch?v=O_0bKdQiHo0
+
+See also:
+
+- https://stackoverflow.com/questions/71342031/formsflow-ai-docker-setup-webapi-and-bpm-containers-dont-start-properly
+- https://hub.docker.com/u/formsflow
